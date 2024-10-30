@@ -1,0 +1,8 @@
+mouse~=0.7.1
+setuptools~=68.0.0
+opencv-python~=4.8.1.78
+numpy~=1.21.6
+autopy~=4.0.0
+rumps~=0.4.0
+playsound~=1.3.0
+mediapipe~=0.8.6.2
